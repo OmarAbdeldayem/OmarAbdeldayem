@@ -25,7 +25,7 @@
 - 🌱 I'm currently learning: **📚 Java & Software Engineering Design**
 - 💬 Ask me about: **💡 C++, Python, SQL, Algorithms and Datastructures**
 - ⚡ Fun fact: **🎢 I made my first bot at 9, for ad-deployment automation**
-Note: not all my projects are uploaded
+Note: not all my projects are uploaded**
 <h3 align="left">Skills</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">

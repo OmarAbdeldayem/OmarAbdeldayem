@@ -19,25 +19,21 @@
 
 <h3 align="left">🚀 Passionate C++ & Python developer, creating robust and scalable projects in my spare time. Studying B.Sc. in Information Engineering, I am skilled in both front-end and back-end technologies, with a keen eye for problem solving and automation technologies.</h3>
 
+
 <h3 align="left">Rapid Fire</h3>
 
-- 💼 I'm currently working on: **💻 Developing an AI speech to text solution with innovative add-ons**
-- 🌱 I'm currently learning: **📚 Java & Software Engineering Design**
-- 💬 Ask me about: **💡 C++, Python, SQL, Algorithms and Datastructures**
-- ⚡ Fun fact: **🎢 I made my first bot at 9, for ad-deployment automation**
-Note: not all my projects are uploaded**
+- 💼 I'm currently working on: **💻 Developing an AI speech to text solution with innovative add-ons**  
+- 🌱 I'm currently learning: **📚 Java & Software Engineering Design**  
+- 💬 Ask me about: **💡 C++, Python, SQL, Algorithms and Datastructures**  
+- ⚡ Fun fact: **🎢 I made my first bot at 9, for ad-deployment automation**  
+<br>Note: not all my projects are uploaded  
 <h3 align="left">Skills</h3>
 
+
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28" alt="Prisma">
-  <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="28" alt="GSAP">
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="28" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL">
 </div>

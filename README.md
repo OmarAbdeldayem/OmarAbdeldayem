@@ -13,11 +13,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/OmarAbdeldayem" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a>
-  <a href="https://www.linkedin.com/in/Omar-Abdeldayem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
+  <a href="https://www.linkedin.com/in/omar-abdeldayem1290" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
   <a href="https://twitter.com/Omar__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a>
 </p>
 
-<h3 align="left">🚀 Passionate C++ & Python developer, creating robust and scalable projects. Studying BA in Information Engineering, I am skilled in both front-end and back-end technologies, with a keen eye for problem solving and automation technologies.</h3>
+<h3 align="left">🚀 Passionate C++ & Python developer, creating robust and scalable projects in my spare time. Studying B.Sc. in Information Engineering, I am skilled in both front-end and back-end technologies, with a keen eye for problem solving and automation technologies.</h3>
 
 <h3 align="left">Rapid Fire</h3>
 
@@ -25,7 +25,7 @@
 - 🌱 I'm currently learning: **📚 Java & Software Engineering Design**
 - 💬 Ask me about: **💡 C++, Python, SQL, Algorithms and Datastructures**
 - ⚡ Fun fact: **🎢 I made my first bot at 9, for ad-deployment automation**
-
+Note: not all my projects are uploaded
 <h3 align="left">Skills</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
